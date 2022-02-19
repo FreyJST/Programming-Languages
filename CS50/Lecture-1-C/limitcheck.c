@@ -2,13 +2,13 @@
 
 int main()
 {
-	int x,y,z;
+	double x,y,z;
 	printf("ENTER THE VALUE OF X:-");
-	scanf("%d",&x);
+	scanf("%f",&x);
 	printf("Enter the Value of y :- ");
-	scanf("%d",&y);
+	scanf("%f",&y);
 	z = x+y;
-	printf("The sume of x and y you have entered is :- %d\n",z);
+	printf("The sume of x and y you have entered is :- %f\n",z);
 	printf("thank you for using this code\n");
 }
 
