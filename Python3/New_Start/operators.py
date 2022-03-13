@@ -1,6 +1,0 @@
-print(9+3)
-print(5**2)
-print(6+8-5)
-print(7%3)
-print(3/2)
-print(3//2)
